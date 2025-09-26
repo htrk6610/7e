@@ -1,0 +1,88 @@
+.line1,
+.line2,
+.line3,
+.line4 {
+  padding-bottom: 100px;
+}
+.yellow_sq {
+  background-color: #ffce22;
+  height: 512px;
+  width: 512px;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.blue_sq {
+  background-color: #2137fc;
+  height: 256px;
+}
+.Glyph_sq {
+  padding: 154px 77px;
+}
+.yellow_ci {
+  background-color: #ffce22;
+  height: 512px;
+  width: 512px;
+  border: 0px solid white;
+  border-radius: 50%;
+  overflow: hidden;
+  display: inline-block;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-sizing: border-box;
+}
+.blue_ci {
+  background-color: #2137fc;
+  height: 256px;
+}
+.Glyph_ci {
+  padding: 244px 70px 50px;
+}
+.petcube_sq {
+  padding: 60px 0;
+}
+.petcube_ci {
+  padding: 60px 85px;
+}
+.plane_sq {
+  padding: 128px 0 0 173px;
+}
+.plane_ci {
+  padding: 65px 87px;
+}
+.diia_sq {
+  padding: 150px 101px 171px 93px;
+}
+.diia_ci {
+  padding: 150px 101px 171px 93px;
+}
+.diia_black {
+  background-color: black;
+  height: 512px;
+  width: 512px;
+  display: inline-block;
+  margin-right: 40px;
+  box-sizing: border-box;
+}
+.diia_bl {
+  padding: 119px 96px 201px 98px;
+}
+.bl_sq_1 {
+  background-image: url(../img/Flag.png);
+  background-repeat: no-repeat;
+  background-position: right 216px bottom 109px;
+}
+.bl_sq_2 {
+  background-image: url(../img/Flag.png);
+  background-repeat: no-repeat;
+  background-position: left 21px top 23px;
+}
+.bl_sq_3 {
+  background-image: url(../img/Flag.png);
+  background-repeat: no-repeat;
+  background-position: left 21px top 27px;
+}
+.bl_sq_4 {
+  background-image: url(../img/Flag.png);
+  background-repeat: no-repeat;
+  background-position: right 21px top 27px;
+}

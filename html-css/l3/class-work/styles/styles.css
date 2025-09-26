@@ -1,0 +1,11 @@
+.headder {
+  min-height: 50px;
+  max-height: 103px;
+  text-align: center;
+  color: #0bbbd3;
+  font-size: 48px;
+  font-weight: 700px;
+}
+.headder_span {
+  color: black;
+}

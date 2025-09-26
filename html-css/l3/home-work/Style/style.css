@@ -1,0 +1,165 @@
+
+body {
+    background-color: #E5E5E5;
+    font-family: 'Inika', serif;
+    font-weight: 700;
+}
+/*
+a, a:link, a:visited, a:active{
+    text-decoration: none;
+    color: white;
+}
+*/
+
+.h1{
+    font-size: 40px;
+    line-height: 63px;
+    color: black;
+    margin: 70px 0;
+}
+.line{
+    border-bottom: 5px solid #3E45E8;
+    width: 402px;
+}
+.headder{
+    font-family: 'M PLUS 1', sans-serif;
+    min-height: 55px;
+    max-height: 110px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 70px;
+    letter-spacing: 0.1em;
+    padding: 25px;
+}
+.headder_span_right{
+    color: #3E45E8;
+}
+.headder_span_left {
+    color: #E8C23E;
+}
+.img_centr{
+    box-sizing: border-box;
+    background-image: url(../img/image\ 1.png);
+    height: 803px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 206px;
+    padding-left: 80px;
+}
+.content_img{
+    box-sizing: border-box;
+    background-image: url(../img/flag.png);
+    background-repeat: no-repeat;
+    font-size: 48px;
+    line-height: 76px;
+    color: white;
+    width: 80%;
+    padding-left: 2%;
+}
+.main{
+    padding: 0 80px;
+}
+.card{
+    border: 1px solid black;
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    border-radius: 42px;
+    overflow: hidden;
+    box-shadow: 0px 4px 57px 3px rgba(0, 0, 0, 0.25);
+    background-color: white ;
+}
+.card_centr{
+    margin: 0 3.5%;
+}
+.card_img{
+    width: 100%;
+}
+.card_title{
+    font-size: 24px;
+    line-height: 38px;
+    padding: 10px;
+    color: #1E8DF2;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.card_cont{
+    font-size: 20px;
+    line-height: 31px;
+    font-weight: 400;
+    color: #E8C23E;
+    padding: 10px;
+    box-sizing: border-box
+}
+.h1_2{
+    text-align: center;
+}
+.line_2{
+    margin: 0 auto;
+}
+.UA_Map{
+    box-sizing: border-box;
+    height: 537px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+.donate{
+    font-size: 64px;
+    line-height: 121px;
+    text-align: center;
+    border: 1px solid #2A61F0;
+    width: 591px;
+    margin: 0 auto;
+    background-color: #2A61F0;
+    box-sizing: border-box;
+}
+.donate_link{
+    text-decoration: none;
+    color: #ffffff;
+}
+.footer_rad{
+    padding-top: 20px;
+}
+.footer{
+    background-color: #2F4A4B;
+    text-align: center;
+}
+.footer_head{
+    font-family: 'M PLUS 1', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 70px;
+    letter-spacing: 0.1em;
+    padding-bottom: 31px;
+}
+.footer_contact {
+    font-family: 'Marcellus SC', serif;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    letter-spacing: 0.1em;
+    padding-bottom: 21px;
+}
+.footer_contact_link{
+    color: #A89D9D;
+    text-decoration: none;
+}
+.footer_card{
+    display: inline-block;
+}
+
+
+
+
+
+/*
+
+font-family: 'Inika', serif;
+font-family: 'M PLUS 1', sans-serif;
+font-family: 'Marcellus', serif;
+font-family: 'Marcellus SC', serif;
+
+*/

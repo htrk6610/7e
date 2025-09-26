@@ -1,0 +1,21 @@
+.left {
+  text-align: left;
+}
+.Centered {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+p {
+  margin-left: 0;
+  background-color: aqua;
+}
+p:nth-child(1) {
+  margin-left: 20px;
+  background-color: green;
+}
+p:nth-child(2) {
+  margin-left: 40px;
+  background-color: brown;
+}

@@ -1,0 +1,28 @@
+.body {
+  margin: 0;
+}
+div.page {
+  background-color: #f0fff0;
+  height: 967px;
+}
+.box {
+  width: 404px;
+  height: 490px;
+  background-color: #000;
+  margin: 0 auto;
+  box-sizing: border-box;
+  text-align: center;
+  padding-top: 25%;
+}
+a.link {
+  border-width: 4px;
+  border-style: solid;
+  border-color: white;
+  width: 302px;
+  padding: 30px;
+  display: inline-block;
+  margin: 10px;
+  color: white;
+  box-sizing: border-box;
+  text-decoration: none;
+}
